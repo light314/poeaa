@@ -1,5 +1,4 @@
-# Patterns of Enterprise Application Architecture - by Martin Fowler
-
+# Patterns of Enterprise Application Architecture 
 This is a repository of sample project that I will create for learning and practising the various patterns listed in the book PoEAA. The list of patterns in the book are given below
 
 ## Domain Logic Patterns
